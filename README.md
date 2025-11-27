@@ -69,11 +69,9 @@ Sistema de organização e controle de entregas.
 
 ---
 
-## 📈 Estatísticas (Tema Laranja/Branco)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ricardaoquadros-jpg&show_icons=true&title_color=ff7a00&icon_color=ff7a00&text_color=333333&bg_color=ffffff)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardaoquadros-jpg&layout=compact&title_color=ff7a00&text_color=333333&bg_color=ffffff)
+| 📊 Estatísticas | 🔤 Linguagens |
+|-----------------|---------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ricardaoquadros-jpg&show_icons=true&title_color=ff7a00&icon_color=ff7a00&text_color=333333&bg_color=ffffff) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardaoquadros-jpg&layout=compact&title_color=ff7a00&text_color=333333&bg_color=ffffff) |
 
 ---
 
