@@ -4,7 +4,7 @@ Sou estudante de **Engenharia da Computação** e Estagiário de TI no setor de 
 Atuo com redes, servidores, suporte, sistemas internos, automações e desenvolvimento web.  
 
 Também pesquiso e estudo tecnologias avançadas e conceitos exploratórios, como  
-**IA generativa aplicada**, **antigravity computing** e soluções integradas com **Firebase Studio**.
+**IA generativa aplicada**, **Engenharia de prompt** e soluções integradas com **Firebase Studio**.
 
 ---
 
