@@ -4,17 +4,17 @@ Sou estudante de **Engenharia da Computação** e Estagiário de TI no setor de 
 Atuo com redes, servidores, suporte, sistemas internos, automações e desenvolvimento web.  
 
 Também pesquiso e estudo tecnologias avançadas e conceitos exploratórios, como  
-**IA generativa aplicada**, **Engenharia de prompt** e soluções integradas com **Firebase Studio**.
+**IA generativa aplicada**, **Engenharia de prompt** e soluções integradas com **LLMs**.
 
 ---
 
 ## 🧠 Áreas de interesse
-- Infraestrutura, redes e servidores  
-- Backend e desenvolvimento de sistemas internos  
-- Automação e scripts em Python  
-- Documentação técnica e otimização de processos  
-- Conceitos experimentais de computação avançada  
-- Firebase Studio e integrações híbridas  
+- Infraestrutura, redes e servidores.  
+- Backend e desenvolvimento de sistemas internos.  
+- Automações e Scripts.  
+- Documentação técnica e otimização de processos. 
+- AI Generativa na resolução de problemas.  
+- Modelos LLM para criação de códigos e infraestruturação de projetos.
 
 ---
 
