@@ -46,6 +46,14 @@ Também pesquiso e estudo tecnologias avançadas e conceitos exploratórios, com
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Omada](https://img.shields.io/badge/TP--Link%20Omada-1F8CEB?style=for-the-badge&logo=tp-link&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![mRemoteNG](https://img.shields.io/badge/mRemoteNG-4A4A4A?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-0057B8?style=for-the-badge&logo=sophos&logoColor=white)
+![Zimbra](https://img.shields.io/badge/Zimbra-EE672F?style=for-the-badge&logo=zimbra&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ---
 
