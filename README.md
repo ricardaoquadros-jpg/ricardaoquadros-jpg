@@ -52,7 +52,6 @@ Também pesquiso e estudo tecnologias avançadas e conceitos exploratórios, com
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![mRemoteNG](https://img.shields.io/badge/mRemoteNG-4A4A4A?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-0057B8?style=for-the-badge&logo=sophos&logoColor=white)
-![Zimbra](https://img.shields.io/badge/Zimbra-EE672F?style=for-the-badge&logo=zimbra&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ---
