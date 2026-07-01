@@ -12,7 +12,13 @@
 - 🔬 **Embedded Software Testing** — Qualificação de sistemas embarcados em mobilidade urbana
 - 🐍 **Python & Automação** — Scripts, testes e otimização de processos
 - 🌐 **Infraestrutura & Redes** — Zabbix, Grafana, Sophos, Omada Controller
-- 💻 **Desenvolvimento Web** — React, PHP, TypeScript, MySQL
+- 💻 **Desenvolvimento Web** — React, Next.js, TypeScript, Tailwind CSS, MySQL
+
+### 🚀 Projetos
+
+- 🎓 **Front x Back** — [tccricardo.vercel.app](https://tccricardo.vercel.app) · Plataforma educacional com chatbot IA (Next.js + Gemini AI)
+- 🌐 **Portfolio** — [ricardoquadros.pro](https://ricardoquadros.pro) · React + TypeScript + Tailwind (Vercel CI/CD)
+- 📋 **Protocolo TI** — Sistema de protocolos usado na Prefeitura de Guaíba (PHP + MySQL)
 
 ### 📌 Em andamento
 
@@ -21,6 +27,8 @@
 
 ### 🏆 Certificações
 
+- Linux Unhatched — Cisco Networking Academy & NDG
+- Relational Databases and SQL — Stanford Online (edX)
 - Claude Code 101 — Anthropic
 - MIT OCW — Intro to CS with Python
 - EF SET English C2 (75/100)
