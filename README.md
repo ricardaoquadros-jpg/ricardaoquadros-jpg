@@ -16,6 +16,7 @@
 
 ### 🚀 Projetos
 
+- 🌙 **Lume** — Rastreador financeiro com IA, comando de voz (n8n + OpenAI) e assistente conversacional (LLaMA 3.3) · [GitHub](https://github.com/ricardaoquadros-jpg/Lume)
 - 🎓 **Front x Back** — [tccricardo.vercel.app](https://tccricardo.vercel.app) · Plataforma educacional com chatbot IA (Next.js + Gemini AI)
 - 🌐 **Portfolio** — [ricardoquadros.pro](https://ricardoquadros.pro) · React + TypeScript + Tailwind (Vercel CI/CD)
 - 📋 **Protocolo TI** — Sistema de protocolos usado na Prefeitura de Guaíba (PHP + MySQL)
@@ -27,6 +28,7 @@
 
 ### 🏆 Certificações
 
+- Introduction to Cybersecurity — Cisco Networking Academy
 - Linux Unhatched — Cisco Networking Academy & NDG
 - Relational Databases and SQL — Stanford Online (edX)
 - Claude Code 101 — Anthropic
