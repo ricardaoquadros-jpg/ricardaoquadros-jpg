@@ -1,4 +1,4 @@
-```markdown
+
 ### 👋 Olá! Eu sou o Ricardo
 
 🎯 **Tests & Qualification Analyst** @ TK Elevator  
