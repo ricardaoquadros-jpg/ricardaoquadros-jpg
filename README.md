@@ -28,6 +28,7 @@
 
 ### 🏆 Certificações
 
+- Artificial Intelligence Fundamentals — IBM SkillsBuild (Jul 2026)
 - Introduction to Cybersecurity — Cisco Networking Academy
 - Linux Unhatched — Cisco Networking Academy & NDG
 - Relational Databases and SQL — Stanford Online (edX)
@@ -35,6 +36,11 @@
 - Technical Support Fundamentals — Google (Coursera)
 - Claude Code 101 — Anthropic
 - EF SET English C2 (75/100)
+
+### 🧮 NeetCode 150 Progress
+
+- 🔗 [neetcode-submissions](https://github.com/ricardaoquadros-jpg/neetCode-submissions) — Auto-synced from NeetCode.io
+- 📊 Data Structures & Algorithms · Python · Daily practice
 
 ---
 
